@@ -1,6 +1,9 @@
 # Team GSBeta
 
-One Paragraph of project description goes here
+##**Problem Statement:-**
+### Smart certificate generator
+Create an application which takes a certificate template and required data and automatically creates the certificate by understanding the template's content.
+
 
 ## Getting Started
 
@@ -9,60 +12,56 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
+* Install python
+```
+sudo apt-get install python3
+python3 --version
+```
+* Install Pillow
 
 ```
-Give examples
+pip apt-get install pillow
 ```
+* Install Google cloud Vision api
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+```pip install google-cloud-vision
 ```
-Give the example
-```
-
-And repeat
+* Install email
+    enable SMTP auth
 
 ```
-until finished
+pip apt-get install email 
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+* Install xlrd
 
 ```
-Give an example
+pip apt-get install xlrd
+```
+* Install smtplib
+```
+pip apt-get install smtplib
 ```
 
-### And coding style tests
 
-Explain what these tests test and why
+### Running
 
+Run this in terminal
 ```
-Give an example
+python certificateGenerator.py
 ```
+## Video
+[alt text](hhttps://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/Screencast%20from%20Sunday%2013%20October%202019%2011:55:02%20%20IST.webm)
 
-## Deployment
-
-
-## Built With
-
-
-## Contributing
-
-
-## Versioning
-
+## ScreenShots
+* *Certificate used
+[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/certificate.png)
+* *Output
+[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file1.png)
+[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file2.png)
+[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file3.png)
+[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file4.png)
+[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file5.png)
+[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file6.png)
 
 ## Authors
 
@@ -76,6 +75,5 @@ This project is licensed under the SGSITS.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Special thanks to Google CLoud vision api and Geeks For Geeks 
+* Inspiration from Version Beta 2k18 winner
