@@ -50,12 +50,14 @@ Run this in terminal
 python certificateGenerator.py
 ```
 ## Video
-![ScreenShot](hhttps://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/Screencast%20from%20Sunday%2013%20October%202019%2011:55:02%20%20IST.webm)
+![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/Screencast%20from%20Sunday%2013%20October%202019%2011:55:02%20%20IST.webm)
 
 ## ScreenShots
-* *Certificate used
+* Certificate used
+
 ![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/certificate.png)
-* *Output
+* Output
+
 ![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file1.png)
 ![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file2.png)
 ![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file3.png)
