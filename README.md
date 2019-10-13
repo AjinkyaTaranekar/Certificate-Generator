@@ -1,6 +1,6 @@
 # Team GSBeta
 
-##**Problem Statement:-**
+## Problem Statement:-
 ### Smart certificate generator
 Create an application which takes a certificate template and required data and automatically creates the certificate by understanding the template's content.
 
@@ -50,18 +50,18 @@ Run this in terminal
 python certificateGenerator.py
 ```
 ## Video
-[alt text](hhttps://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/Screencast%20from%20Sunday%2013%20October%202019%2011:55:02%20%20IST.webm)
+![ScreenShot](hhttps://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/Screencast%20from%20Sunday%2013%20October%202019%2011:55:02%20%20IST.webm)
 
 ## ScreenShots
 * *Certificate used
-[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/certificate.png)
+![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/certificate.png)
 * *Output
-[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file1.png)
-[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file2.png)
-[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file3.png)
-[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file4.png)
-[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file5.png)
-[alt text](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file6.png)
+![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file1.png)
+![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file2.png)
+![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file3.png)
+![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file4.png)
+![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file5.png)
+![ScreenShot](https://github.com/AjinkyaTaranekar/Team-GSBeta/blob/master/out_file6.png)
 
 ## Authors
 
